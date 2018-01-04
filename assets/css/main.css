@@ -1427,6 +1427,7 @@
 			#header h1 a {
 				border: 0;
 				color: inherit;
+				font-family: 'Roboto', sans-serif;
 			}
 
 				#header h1 a:hover {
